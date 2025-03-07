@@ -14,7 +14,7 @@
 ![alt text](projectImages/addItemPage.png)
 
 ### 6. Bidding For Active Item
-![alt text](projectImages/biddingPage.png)
+![alt text](projectImages/BiddingPage.png)
 
 ### 7. Bidding For Closed Item
 ![alt text](projectImages/biddingForclosedItems.png)
